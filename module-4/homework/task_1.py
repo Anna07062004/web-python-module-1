@@ -20,4 +20,4 @@ print("Уникальные элементы каждого списка:", uniq
 min_max_list1 = [min(list1), max(list1)]
 min_max_list2 = [min(list2), max(list2)]
 min_max_combined = min_max_list1 + min_max_list2
-print("5. Минимальные и максимальные значения:", min_max_combined)
+print("Минимальные и максимальные значения:", min_max_combined)
