@@ -36,7 +36,6 @@ def update_book(book_id, field, new_value):
     else:
         print(f"Книга с ID {book_id} не найдена")
 
-# Основная программа
 while True:
     print("\nМеню программы 'Книжная коллекция': ")
     print("1) Добавить книгу")
