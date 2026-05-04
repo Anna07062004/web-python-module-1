@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Булочка",
+    "price": 0.5,
+    "quantity": 9
+  },
+  {
+    "name": "Сосиска",
+    "price": 1.0,
+    "quantity": 9
+  },
+  {
+    "name": "Горчица",
+    "price": 0.2,
+    "quantity": 9
+  },
+  {
+    "name": "Кетчуп",
+    "price": 0.2,
+    "quantity": 100
+  },
+  {
+    "name": "Майонез",
+    "price": 0.2,
+    "quantity": 100
+  },
+  {
+    "name": "Лук",
+    "price": 0.3,
+    "quantity": 50
+  },
+  {
+    "name": "Халапеньо",
+    "price": 0.3,
+    "quantity": 49
+  },
+  {
+    "name": "Чили",
+    "price": 0.3,
+    "quantity": 49
+  },
+  {
+    "name": "Огурец",
+    "price": 0.4,
+    "quantity": 49
+  }
+]
